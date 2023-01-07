@@ -1,0 +1,41 @@
+.dish {
+    padding: 16px 0;
+    display: flex;
+    gap: 24px;
+}
+
+.dish-title {
+    flex-basis: 200px;
+    flex-grow: 1;
+    flex-shrink: 0;
+}
+
+.dish-amount {
+    flex-basis: 120px;
+    flex-grow: 0;
+    flex-shrink: 1;
+    text-align: right;
+    white-space: nowrap;
+}
+
+.dish-calories {
+    flex-basis: 120px;
+    flex-grow: 0;
+    flex-shrink: 1;
+    text-align: right;
+    white-space: nowrap;
+}
+
+.button-edit {
+    border: none;
+    background-image: url("edit.svg");
+    width: 24px;
+    height: 24px;
+    background-color: #FFFFFF;
+    cursor: pointer;
+}
+
+.button-edit:hover .button-icon {
+    fill: black;
+    cursor: pointer;
+}
