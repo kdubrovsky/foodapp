@@ -1,0 +1,27 @@
+.meal-header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #E6E6E6;
+    padding-top: 32px;
+    padding-bottom: 16px;
+}
+
+.meal-title {
+    font-weight: 500;
+    font-style: italic;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.button-add {
+    border: none;
+    width: 24px;
+    height: 28px;
+    background-color: #FFFFFF;
+    cursor: pointer;
+}
+
+.button-add:hover .button-icon {
+    fill: black;
+    cursor: pointer;
+}

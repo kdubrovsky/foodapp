@@ -1,17 +1,15 @@
 import './Day.css';
-import Dish from "../Dish/Dish";
+import Meal from '../Meal/Meal';
 
 const Day = (props) => {
     return (
         <div className="day">
             <h2 className="day-title">{props.dayName}</h2>
-            <Dish
-                title="Салат из рукколы"
-                amount="200"
-                measurement="г"
-                calories="1200"/>
+            <Meal title="Завтрак"/>
+            <Meal title="Обед"/>
+            <Meal title="Ужин"/>
         </div>);
-}
+};
 
 export default Day;
 
