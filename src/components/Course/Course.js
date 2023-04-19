@@ -6,7 +6,7 @@ const Course = (props) => {
         <div className='course'>
             <p className='course-title'>{props.title}</p>
             <p className='course-amount'>{props.amount}
-                <span> {props.measurement}</span>
+                <span> г</span>
             </p>
             <p className='course-calories'>{props.calories} ккал</p>
             <button className='button-edit'>

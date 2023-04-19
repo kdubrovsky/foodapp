@@ -8,27 +8,24 @@ let appData = [
                     key: 0,
                     title: 'Салат из свежих овощей',
                     amount: 200,
-                    measurement: 'г',
                     calories: 240
                 },
                 {
                     key: 1,
                     title: 'Суп-пюре из тыквы',
                     amount: 300,
-                    measurement: 'г',
                     calories: 120
                 },
                 {
                     key: 2,
                     title: 'Куриная котлета с рисом',
                     amount: 400,
-                    measurement: 'г',
                     calories: 360
                 },
                 {
                     key: 3,
                     title: 'Яблоко',
-                    amount: 1,
+                    amount: 150,
                     measurement: 'шт',
                     calories: 30
                 }
@@ -38,27 +35,24 @@ let appData = [
                     key: 0,
                     title: 'Салат из свежих овощей',
                     amount: 200,
-                    measurement: 'г',
                     calories: 240
                 },
                 {
                     key: 1,
                     title: 'Суп-пюре из тыквы',
                     amount: 300,
-                    measurement: 'г',
                     calories: 120
                 },
                 {
                     key: 2,
                     title: 'Куриная котлета с рисом',
                     amount: 400,
-                    measurement: 'г',
                     calories: 360
                 },
                 {
                     key: 3,
                     title: 'Яблоко',
-                    amount: 1,
+                    amount: 150,
                     measurement: 'шт',
                     calories: 30
                 }
@@ -68,27 +62,24 @@ let appData = [
                     key: 0,
                     title: 'Салат из свежих овощей',
                     amount: 200,
-                    measurement: 'г',
                     calories: 240
                 },
                 {
                     key: 1,
                     title: 'Суп-пюре из тыквы',
                     amount: 300,
-                    measurement: 'г',
                     calories: 120
                 },
                 {
                     key: 2,
                     title: 'Куриная котлета с рисом',
                     amount: 400,
-                    measurement: 'г',
                     calories: 360
                 },
                 {
                     key: 3,
                     title: 'Яблоко',
-                    amount: 1,
+                    amount: 150,
                     measurement: 'шт',
                     calories: 30
                 }
@@ -104,27 +95,24 @@ let appData = [
                     key: 0,
                     title: 'Салат из свежих овощей',
                     amount: 200,
-                    measurement: 'г',
                     calories: 240
                 },
                 {
                     key: 1,
                     title: 'Суп-пюре из тыквы',
                     amount: 300,
-                    measurement: 'г',
                     calories: 120
                 },
                 {
                     key: 2,
                     title: 'Куриная котлета с рисом',
                     amount: 400,
-                    measurement: 'г',
                     calories: 360
                 },
                 {
                     key: 3,
                     title: 'Яблоко',
-                    amount: 1,
+                    amount: 150,
                     measurement: 'шт',
                     calories: 30
                 }
@@ -134,27 +122,24 @@ let appData = [
                     key: 0,
                     title: 'Салат из свежих овощей',
                     amount: 200,
-                    measurement: 'г',
                     calories: 240
                 },
                 {
                     key: 1,
                     title: 'Суп-пюре из тыквы',
                     amount: 300,
-                    measurement: 'г',
                     calories: 120
                 },
                 {
                     key: 2,
                     title: 'Куриная котлета с рисом',
                     amount: 400,
-                    measurement: 'г',
                     calories: 360
                 },
                 {
                     key: 3,
                     title: 'Яблоко',
-                    amount: 1,
+                    amount: 150,
                     measurement: 'шт',
                     calories: 30
                 }
@@ -164,27 +149,24 @@ let appData = [
                     key: 0,
                     title: 'Салат из свежих овощей',
                     amount: 200,
-                    measurement: 'г',
                     calories: 240
                 },
                 {
                     key: 1,
                     title: 'Суп-пюре из тыквы',
                     amount: 300,
-                    measurement: 'г',
                     calories: 120
                 },
                 {
                     key: 2,
                     title: 'Куриная котлета с рисом',
                     amount: 400,
-                    measurement: 'г',
                     calories: 360
                 },
                 {
                     key: 3,
                     title: 'Яблоко',
-                    amount: 1,
+                    amount: 150,
                     measurement: 'шт',
                     calories: 30
                 }
@@ -200,27 +182,24 @@ let appData = [
                     key: 0,
                     title: 'Салат из свежих овощей',
                     amount: 200,
-                    measurement: 'г',
                     calories: 240
                 },
                 {
                     key: 1,
                     title: 'Суп-пюре из тыквы',
                     amount: 300,
-                    measurement: 'г',
                     calories: 120
                 },
                 {
                     key: 2,
                     title: 'Куриная котлета с рисом',
                     amount: 400,
-                    measurement: 'г',
                     calories: 360
                 },
                 {
                     key: 3,
                     title: 'Яблоко',
-                    amount: 1,
+                    amount: 150,
                     measurement: 'шт',
                     calories: 30
                 }
@@ -230,27 +209,24 @@ let appData = [
                     key: 0,
                     title: 'Салат из свежих овощей',
                     amount: 200,
-                    measurement: 'г',
                     calories: 240
                 },
                 {
                     key: 1,
                     title: 'Суп-пюре из тыквы',
                     amount: 300,
-                    measurement: 'г',
                     calories: 120
                 },
                 {
                     key: 2,
                     title: 'Куриная котлета с рисом',
                     amount: 400,
-                    measurement: 'г',
                     calories: 360
                 },
                 {
                     key: 3,
                     title: 'Яблоко',
-                    amount: 1,
+                    amount: 150,
                     measurement: 'шт',
                     calories: 30
                 }
@@ -260,27 +236,24 @@ let appData = [
                     key: 0,
                     title: 'Салат из свежих овощей',
                     amount: 200,
-                    measurement: 'г',
                     calories: 240
                 },
                 {
                     key: 1,
                     title: 'Суп-пюре из тыквы',
                     amount: 300,
-                    measurement: 'г',
                     calories: 120
                 },
                 {
                     key: 2,
                     title: 'Куриная котлета с рисом',
                     amount: 400,
-                    measurement: 'г',
                     calories: 360
                 },
                 {
                     key: 3,
                     title: 'Яблоко',
-                    amount: 1,
+                    amount: 150,
                     measurement: 'шт',
                     calories: 30
                 }
@@ -296,27 +269,24 @@ let appData = [
                     key: 0,
                     title: 'Салат из свежих овощей',
                     amount: 200,
-                    measurement: 'г',
                     calories: 240
                 },
                 {
                     key: 1,
                     title: 'Суп-пюре из тыквы',
                     amount: 300,
-                    measurement: 'г',
                     calories: 120
                 },
                 {
                     key: 2,
                     title: 'Куриная котлета с рисом',
                     amount: 400,
-                    measurement: 'г',
                     calories: 360
                 },
                 {
                     key: 3,
                     title: 'Яблоко',
-                    amount: 1,
+                    amount: 150,
                     measurement: 'шт',
                     calories: 30
                 }
@@ -326,27 +296,24 @@ let appData = [
                     key: 0,
                     title: 'Салат из свежих овощей',
                     amount: 200,
-                    measurement: 'г',
                     calories: 240
                 },
                 {
                     key: 1,
                     title: 'Суп-пюре из тыквы',
                     amount: 300,
-                    measurement: 'г',
                     calories: 120
                 },
                 {
                     key: 2,
                     title: 'Куриная котлета с рисом',
                     amount: 400,
-                    measurement: 'г',
                     calories: 360
                 },
                 {
                     key: 3,
                     title: 'Яблоко',
-                    amount: 1,
+                    amount: 150,
                     measurement: 'шт',
                     calories: 30
                 }
@@ -356,27 +323,24 @@ let appData = [
                     key: 0,
                     title: 'Салат из свежих овощей',
                     amount: 200,
-                    measurement: 'г',
                     calories: 240
                 },
                 {
                     key: 1,
                     title: 'Суп-пюре из тыквы',
                     amount: 300,
-                    measurement: 'г',
                     calories: 120
                 },
                 {
                     key: 2,
                     title: 'Куриная котлета с рисом',
                     amount: 400,
-                    measurement: 'г',
                     calories: 360
                 },
                 {
                     key: 3,
                     title: 'Яблоко',
-                    amount: 1,
+                    amount: 150,
                     measurement: 'шт',
                     calories: 30
                 }
@@ -392,27 +356,24 @@ let appData = [
                     key: 0,
                     title: 'Салат из свежих овощей',
                     amount: 200,
-                    measurement: 'г',
                     calories: 240
                 },
                 {
                     key: 1,
                     title: 'Суп-пюре из тыквы',
                     amount: 300,
-                    measurement: 'г',
                     calories: 120
                 },
                 {
                     key: 2,
                     title: 'Куриная котлета с рисом',
                     amount: 400,
-                    measurement: 'г',
                     calories: 360
                 },
                 {
                     key: 3,
                     title: 'Яблоко',
-                    amount: 1,
+                    amount: 150,
                     measurement: 'шт',
                     calories: 30
                 }
@@ -422,27 +383,24 @@ let appData = [
                     key: 0,
                     title: 'Салат из свежих овощей',
                     amount: 200,
-                    measurement: 'г',
                     calories: 240
                 },
                 {
                     key: 1,
                     title: 'Суп-пюре из тыквы',
                     amount: 300,
-                    measurement: 'г',
                     calories: 120
                 },
                 {
                     key: 2,
                     title: 'Куриная котлета с рисом',
                     amount: 400,
-                    measurement: 'г',
                     calories: 360
                 },
                 {
                     key: 3,
                     title: 'Яблоко',
-                    amount: 1,
+                    amount: 150,
                     measurement: 'шт',
                     calories: 30
                 }
@@ -452,27 +410,24 @@ let appData = [
                     key: 0,
                     title: 'Салат из свежих овощей',
                     amount: 200,
-                    measurement: 'г',
                     calories: 240
                 },
                 {
                     key: 1,
                     title: 'Суп-пюре из тыквы',
                     amount: 300,
-                    measurement: 'г',
                     calories: 120
                 },
                 {
                     key: 2,
                     title: 'Куриная котлета с рисом',
                     amount: 400,
-                    measurement: 'г',
                     calories: 360
                 },
                 {
                     key: 3,
                     title: 'Яблоко',
-                    amount: 1,
+                    amount: 150,
                     measurement: 'шт',
                     calories: 30
                 }
@@ -488,27 +443,24 @@ let appData = [
                     key: 0,
                     title: 'Салат из свежих овощей',
                     amount: 200,
-                    measurement: 'г',
                     calories: 240
                 },
                 {
                     key: 1,
                     title: 'Суп-пюре из тыквы',
                     amount: 300,
-                    measurement: 'г',
                     calories: 120
                 },
                 {
                     key: 2,
                     title: 'Куриная котлета с рисом',
                     amount: 400,
-                    measurement: 'г',
                     calories: 360
                 },
                 {
                     key: 3,
                     title: 'Яблоко',
-                    amount: 1,
+                    amount: 150,
                     measurement: 'шт',
                     calories: 30
                 }
@@ -518,27 +470,24 @@ let appData = [
                     key: 0,
                     title: 'Салат из свежих овощей',
                     amount: 200,
-                    measurement: 'г',
                     calories: 240
                 },
                 {
                     key: 1,
                     title: 'Суп-пюре из тыквы',
                     amount: 300,
-                    measurement: 'г',
                     calories: 120
                 },
                 {
                     key: 2,
                     title: 'Куриная котлета с рисом',
                     amount: 400,
-                    measurement: 'г',
                     calories: 360
                 },
                 {
                     key: 3,
                     title: 'Яблоко',
-                    amount: 1,
+                    amount: 150,
                     measurement: 'шт',
                     calories: 30
                 }
@@ -548,27 +497,24 @@ let appData = [
                     key: 0,
                     title: 'Салат из свежих овощей',
                     amount: 200,
-                    measurement: 'г',
                     calories: 240
                 },
                 {
                     key: 1,
                     title: 'Суп-пюре из тыквы',
                     amount: 300,
-                    measurement: 'г',
                     calories: 120
                 },
                 {
                     key: 2,
                     title: 'Куриная котлета с рисом',
                     amount: 400,
-                    measurement: 'г',
                     calories: 360
                 },
                 {
                     key: 3,
                     title: 'Яблоко',
-                    amount: 1,
+                    amount: 150,
                     measurement: 'шт',
                     calories: 30
                 }
@@ -584,27 +530,24 @@ let appData = [
                     key: 0,
                     title: 'Салат из свежих овощей',
                     amount: 200,
-                    measurement: 'г',
                     calories: 240
                 },
                 {
                     key: 1,
                     title: 'Суп-пюре из тыквы',
                     amount: 300,
-                    measurement: 'г',
                     calories: 120
                 },
                 {
                     key: 2,
                     title: 'Куриная котлета с рисом',
                     amount: 400,
-                    measurement: 'г',
                     calories: 360
                 },
                 {
                     key: 3,
-                    title: 'Яблоко',
-                    amount: 1,
+                    title: 'Манго',
+                    amount: 150,
                     measurement: 'шт',
                     calories: 30
                 }
@@ -614,27 +557,24 @@ let appData = [
                     key: 0,
                     title: 'Салат из свежих овощей',
                     amount: 200,
-                    measurement: 'г',
                     calories: 240
                 },
                 {
                     key: 1,
                     title: 'Суп-пюре из тыквы',
                     amount: 300,
-                    measurement: 'г',
                     calories: 120
                 },
                 {
                     key: 2,
                     title: 'Куриная котлета с рисом',
                     amount: 400,
-                    measurement: 'г',
                     calories: 360
                 },
                 {
                     key: 3,
-                    title: 'Яблоко',
-                    amount: 1,
+                    title: 'Апельсин',
+                    amount: 150,
                     measurement: 'шт',
                     calories: 30
                 }
@@ -644,27 +584,24 @@ let appData = [
                     key: 0,
                     title: 'Салат из свежих овощей',
                     amount: 200,
-                    measurement: 'г',
                     calories: 240
                 },
                 {
                     key: 1,
                     title: 'Суп-пюре из тыквы',
                     amount: 300,
-                    measurement: 'г',
                     calories: 120
                 },
                 {
                     key: 2,
                     title: 'Куриная котлета с рисом',
                     amount: 400,
-                    measurement: 'г',
                     calories: 360
                 },
                 {
                     key: 3,
-                    title: 'Яблоко',
-                    amount: 1,
+                    title: 'Груша',
+                    amount: 150,
                     measurement: 'шт',
                     calories: 30
                 }

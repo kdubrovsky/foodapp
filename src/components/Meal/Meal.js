@@ -16,13 +16,11 @@ const Meal = (props) => {
                 key,
                 title,
                 amount,
-                measurement,
                 calories
             }) => <Course
                     key={key}
                     title={title}
                     amount={amount}
-                    measurement={measurement}
                     calories={calories}
                 />)}
         </div>
