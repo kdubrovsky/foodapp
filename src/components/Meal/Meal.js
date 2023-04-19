@@ -7,7 +7,9 @@ const Meal = (props) => {
         <div className='meal'>
             <div className='meal-header'>
                 <h3 className='meal-title'>{props.title}</h3>
-                <button className='button-add'>
+                <button
+                    className='button-add'
+                    onClick={() => { document.querySelector('.add-course').showModal() }}>
                     <AddIcon />
                 </button>
             </div>

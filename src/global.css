@@ -12,6 +12,13 @@ body {
     font-weight: 400;
 }
 
+input,
+button,
+textarea,
+select {
+    font: inherit;
+}
+
 #root {
     display: flex;
     justify-content: center;
